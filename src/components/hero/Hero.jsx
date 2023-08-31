@@ -3,15 +3,6 @@ import './Hero.css'
 
 function Hero() {
 
-    const sqlQuery = `SELECT
-    *
-FROM
-    DEVELOPERS
-WHERE
-    NAME = 'JONAS ALVES'
-AND
-    EFFORT = 'MAXIMUM'`;
-
     return(
         <>
             <div className='container'>
@@ -38,24 +29,25 @@ AND
                 </div>
                 
                 <div className='cardtext'>
-                    {sqlQuery}
+                    
                     <pre>
-        <span className="keyword">SELECT</span>
-        {'\n'}
-        *
-        {'\n'}
-        <span className="keyword">FROM</span>
-        {'\n'}
-        DEVELOPERS
-        {'\n'}
-        <span className="keyword">WHERE</span>
-        {'\n'}
-        NAME = 'JONAS ALVES'
-        {'\n'}
-        <span className="keyword">AND</span>
-        {'\n'}
-        EFFORT = 'MAXIMUM'
-      </pre>
+                        <span className="keyword1">SELECT</span>
+                        {'\n'}
+                        &nbsp;&nbsp;&nbsp;&nbsp;*
+                        {'\n'}
+                        <span className="keyword1">FROM</span>
+                        {'\n'}
+                        &nbsp;&nbsp;&nbsp;&nbsp;DEVELOPERS
+                        {'\n'}
+                        <span className="keyword1">WHERE</span>
+                        {'\n'}
+                        &nbsp;&nbsp;&nbsp;&nbsp;NAME = <span className="keyword">'JONAS ALVES'</span>
+                        {'\n'}
+                        <span className="keyword1">AND</span>
+                        {'\n'}
+                        &nbsp;&nbsp;&nbsp;&nbsp;EFFORT = <span className="keyword">'MAXIMUM'</span>;
+                    </pre>
+
                     
                 </div>
 
