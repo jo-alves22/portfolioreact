@@ -1,0 +1,23 @@
+section{
+    margin: 100px;
+}
+.titleabout{
+    color: rgb(73, 97, 220);
+}
+.cardabout{
+    display: flex;
+}
+figure img{
+    width: 100%;
+    border-radius: 50%;
+    padding: 10px;
+}
+.infoabout{
+    text-align: left;
+    padding: 80px;
+}
+.infoabout a{
+    text-decoration: none;
+    color: black;
+}
+

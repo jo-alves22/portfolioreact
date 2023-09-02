@@ -1,5 +1,4 @@
 body {
-    overflow: hidden;
     margin: 0;
     padding: 0;
     
@@ -7,7 +6,6 @@ body {
 }
 .container{
     width: 100vw;
-
     margin-top: 100px;
     display: flex;
     justify-content: space-around;
@@ -66,18 +64,14 @@ body {
     width: 40%;
     flex: 1;
 }
-.rect{
-    background-color: rgb(73, 97, 220);
-    width: 1500px;
-    height: 1500px;
-    border-radius: 15px;
-    transform: rotate(45deg);
-    position: fixed;
-    top: -450px;
-    right: -1000px;
+
+.svg-rect{
+    width: 40%;
+    position: absolute;
+    top: 50px;
+    right: 0px;
     z-index: -1;
 }
-
 .cardtext{
     background-color: rgb(248, 248, 248);
     box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;

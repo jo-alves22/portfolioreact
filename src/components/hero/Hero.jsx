@@ -1,11 +1,12 @@
 import './Hero.css'
-
+import rect from '../../assets/rect.svg'
 
 function Hero() {
 
     return(
         <>
             <div className='container'>
+                <img className="svg-rect" src={rect} alt="retalgulo" />
                 <div className="info">
                     <p>Olá, meu nome é</p>
                     <h1>JONAS ALVES</h1>
@@ -52,7 +53,7 @@ function Hero() {
                 </div>
 
             </div>
-            <div className="rect"></div>
+            
             
         </>
     )
