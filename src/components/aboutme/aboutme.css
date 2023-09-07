@@ -1,11 +1,17 @@
 section{
-    margin: 100px;
+    margin-top: 100px;
+
 }
 .titleabout{
     color: rgb(73, 97, 220);
 }
 .cardabout{
+    margin-top: 100px;
     display: flex;
+    background-color: rgb(73, 97, 220);
+    padding-left: 100px;
+    padding-right: 100px;
+    
 }
 figure img{
     width: 100%;
@@ -19,5 +25,8 @@ figure img{
 .infoabout a{
     text-decoration: none;
     color: black;
+}
+.infoabout p{
+    color: white;
 }
 
