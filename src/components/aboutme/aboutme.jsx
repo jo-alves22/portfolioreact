@@ -17,7 +17,7 @@ export default function Aboutme () {
                         &nbsp;
                         <b><a href="https://www.nappsolutions.com.br/" target="_blank" >NappSolutions</a></b>
                         &nbsp;
-                        como Analista de Integração de Softwares, buscando aplicar os conhecimentos de gestão
+                        como Analista de Integração de Softwares, buscando aplicar os conhecimentos técnicos aliados a gestão
                         e scrum a fim de trazer os resultados e eficiência almejados.
                         <br></br>
                         <br></br>
