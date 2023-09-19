@@ -1,6 +1,7 @@
 import Aboutme from "../aboutme/aboutme"
 import Hero from "../hero/Hero"
 import Navbar from "../navbar/Navbar"
+import Skillsets from "../skillsets/Skillsets"
 
 
 
@@ -10,6 +11,7 @@ function Home() {
         <Navbar />
         <Hero />
         <Aboutme />
+        <Skillsets />
         </>
     )
 }
