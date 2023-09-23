@@ -4,6 +4,7 @@ import perfil from '../../assets/perfil.jpg'
 export default function Aboutme () {
     return(
         <div>
+            
             <section>
                 <h1 className='titleabout'>Sobre mim</h1>
                 <div className="cardabout">

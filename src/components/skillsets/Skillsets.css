@@ -2,4 +2,11 @@
     color: rgb(73, 97, 220);
     font-weight: 800;
     font-size:xx-large;
+    margin-bottom: 100px;
+}
+.skills{
+    display: flex;
+    justify-content:space-around;
+    padding-left: 110px;
+    padding-right: 130px;
 }
