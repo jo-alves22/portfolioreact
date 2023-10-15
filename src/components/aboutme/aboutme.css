@@ -1,0 +1,38 @@
+section{
+    margin-top: 100px;
+    
+}
+
+.titleabout{
+    color: rgb(73, 97, 220);
+    font-weight: 800;
+    font-size:xx-large;
+}
+.cardabout{
+    margin-top: 100px;
+    background-color: rgb(73, 97, 220);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 120px;
+    padding-right: 100px;
+    
+}
+figure img{
+    width: 200px;
+    border-radius: 50%;
+    border: solid 5px white;
+}
+.infoabout{
+    text-align: left;
+    width: 800px;
+    padding: 80px;
+}
+.infoabout a{
+    text-decoration: none;
+    color: black;
+}
+.infoabout p{
+    color: white;
+}
+

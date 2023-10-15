@@ -1,0 +1,33 @@
+.titleprojects{
+    margin-top: 200px;
+    color: rgb(73, 97, 220);
+    font-weight: 800;
+    font-size:xx-large;
+}
+.cardproject{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.description{
+    width: 40%;
+    background-color: rgb(248, 248, 248);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    border-radius: 15px;
+    text-align: left;
+    padding: 50px;
+    min-height: 250px;
+    
+}
+
+.imgproject{
+    width: 60%;
+    position: relative;
+    top: 35px;
+    left: -130px;
+}
+.imgproject img{
+    width: 75%;
+    border-radius: 15px;
+    
+}
