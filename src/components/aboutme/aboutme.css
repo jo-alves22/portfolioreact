@@ -30,7 +30,8 @@ figure img{
 }
 .infoabout a{
     text-decoration: none;
-    color: black;
+    color: White;
+    font-weight: bold;
 }
 .infoabout p{
     color: white;
