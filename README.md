@@ -1,8 +1,39 @@
-# React + Vite
+# Portifolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este portifólio foi desenvolvido utilizando React + Vite para demonstração dos projetos desenvolvidos e habilidades.
 
-Currently, two official plugins are available:
+## Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**
+- **Vite**
+- **Javascript**
+
+### Como executar
+
+### Step 1: Clone o repositório
+
+
+```bash
+git clone https://github.com/jo-alves22/portfolioreact
+```
+
+### Step 2: Instale as dependências
+
+cd no diretório
+
+```bash
+cd portfolioreact
+```
+
+instale todas as dependências
+```bash
+npm install
+```
+
+### Step 3: Comece o desenvolvimento
+
+Rode o servidor de desenvolvimento
+```
+npm run dev
+```
+Depois de rodar o servidor de desenvolvimento o site deve estar no ar https://localhost:5173
