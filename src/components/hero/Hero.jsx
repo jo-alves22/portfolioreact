@@ -8,12 +8,12 @@ function Hero() {
             <div className='container'>
                 <img className="svg-rect" src={rect} alt="retalgulo" />
                 <div className="info">
-                    <p>Olá, meu nome é</p>
+                    <p>Hi, my name is</p>
                     <h1>JONAS ALVES</h1>
                     <span>SOFTWARE AND ETL DEVELOPER</span>
                     <div>
                         <div className="cv">
-                            <a href="">Download Currículo</a>
+                            <a href="">Download Resume</a>
                         </div>
                         
                         <div className='social'>
