@@ -8,7 +8,7 @@ section{
     font-weight: 800;
     font-size:xx-large;
 }
-.cardabout{
+.cardabout {
     margin-top: 100px;
     background-color: rgb(73, 97, 220);
     display: flex;
@@ -16,8 +16,11 @@ section{
     justify-content: space-around;
     padding-left: 120px;
     padding-right: 100px;
-    
+    box-shadow: rgba(10, 0, 0, 0.2) 10px 10px 20px; /* Aumente a opacidade e o desfoque */
+    border-radius: 15px; /* Adiciona bordas arredondadas */
+    transition: box-shadow 0.3s ease-in-out; /* Animação para efeito suave */
 }
+
 figure img{
     width: 200px;
     border-radius: 50%;

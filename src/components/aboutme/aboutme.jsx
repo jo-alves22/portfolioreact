@@ -13,15 +13,15 @@ export default function Aboutme () {
                     </figure>
                     <div className="infoabout">
                         <p>
-                        Olá, eu sou o Jonas, um desenvolvedor ETL apaixonado por análise e ciência de dados, 
-                        atualmente trabalhando na
+                        Olá, eu sou o Jonas, desenvolvedor ETL com uma forte paixão por análise e ciência de dados.
+                        Atualmente, atuo como Coordenador da equipe de integração de softwares na
                         &nbsp;
-                        <b><a href="https://www.nappsolutions.com.br/" target="_blank" >NappSolutions</a></b>
-                        &nbsp;
-                        como Coordenador da equipe de Integração de Softwares, buscando gerir da forma mais adequada a equipe em busca dos resultados e eficiência no processo.
+                        <b><a href="https://www.nappsolutions.com.br/" target="_blank" >NappSolutions</a></b>, 
+                        onde trabalho para liderar nossa equipe na busca por resultados sólidos e processos de integração eficientes.
                         <br></br>
                         <br></br>
-                        Também trabalho como professor de Ensino Médio e Técnico do Centro Paula Souza nos cursos de Desenvolvimento de Sistemas e Informática para Internet.
+                        Além disso, leciono para os cursos de Desenvolvimento de Sistemas e Informática para Internet no <b>Centro Paula Souza</b>, nos níveis de Ensino Médio e Técnico, 
+                        onde compartilho meu conhecimento e experiência com novos talentos na área de tecnologia.
                         </p>
                     </div>
                     
