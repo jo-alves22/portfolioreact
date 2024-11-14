@@ -7,14 +7,10 @@ nav{
     box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
     z-index: 1000;
     position: fixed;
-
-  
 }
 .logojonas {
     height: 3.5em;
-   
     padding-top: 5px;
-  
 }
 
 #navbar{
