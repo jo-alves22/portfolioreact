@@ -5,7 +5,7 @@ import hotel from '../../assets/hotel.png'
 
 export default function Projects () {
     return(
-        <div>
+        <div className='containerproject'>
             <h1 className='titleprojects'>Projetos</h1>
             <section className='cardproject'>
                 <div className='description'>

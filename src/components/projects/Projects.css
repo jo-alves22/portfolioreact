@@ -1,3 +1,6 @@
+.containerproject{
+    width: 100vw;
+}
 .titleprojects{
     margin-top: 200px;
     color: rgb(73, 97, 220);
@@ -17,17 +20,14 @@
     text-align: left;
     padding: 50px;
     min-height: 250px;
-    
 }
 
 .imgproject{
     width: 60%;
     position: relative;
-    top: 35px;
     left: -130px;
 }
 .imgproject img{
     width: 75%;
     border-radius: 15px;
-    
 }

@@ -17,8 +17,6 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
-
-
 }
 #navbar li{
     list-style: none;
@@ -84,6 +82,5 @@ nav{
         font-size: 30px;
         cursor: pointer;
         color: #335384;
-        
     }
 }

@@ -1,10 +1,12 @@
+.containerskill{
+    width: 100vw;
+}
 .titleskills{
     color: rgb(73, 97, 220);
     font-weight: 800;
     font-size:xx-large;
     margin-bottom: 100px;
     margin-top: 150px;
-    
 }
 .skills{
     display:flex;
@@ -14,5 +16,4 @@
     padding-right: 110px;
     width: 80vw;
     margin-left: 100px;
-
 }

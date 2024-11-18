@@ -1,7 +1,7 @@
 import './Skillsets.css'
 export default function Skillsets () {
     return(
-        <div>
+        <div className='containerskill'>
             <section>
                 <h1 className='titleskills'>Skillsets</h1>
             </section>

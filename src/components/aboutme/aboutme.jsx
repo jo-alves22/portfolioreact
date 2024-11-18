@@ -3,7 +3,7 @@ import perfil from '../../assets/perfil.jpg'
 
 export default function Aboutme () {
     return(
-        <div>
+        <div className='containerabout'>
             
             <section>
                 <h1 className='titleabout'>Sobre mim</h1>
