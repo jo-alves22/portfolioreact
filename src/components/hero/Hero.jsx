@@ -5,7 +5,7 @@ function Hero() {
 
     return(
         <>
-            <div className='container'>
+            <div id='hero' className='container'>
                 <img className="svg-rect" src={rect} alt="retalgulo" />
                 <div className="info">
                     <p>Hi, my name is</p>

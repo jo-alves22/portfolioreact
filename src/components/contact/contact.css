@@ -22,7 +22,7 @@
 .contact-card{
   display: grid;
   grid-template-columns: 320px 1fr;
-  gap: 24px;
+  gap: 0px;
   background: white;
   border-radius: var(--radius);
   box-shadow: var(--shadow);

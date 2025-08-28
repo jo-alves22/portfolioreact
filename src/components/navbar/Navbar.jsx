@@ -12,15 +12,17 @@ class Navbar extends Component {
         return (
             <nav className="navbar">
                 <div>
-                    <img src={jonasLogo} className="logojonas" alt="Jonas logo" />
+                    <a href="#topo">
+                        <img src={jonasLogo} className="logojonas" alt="Jonas logo" />
+                    </a>
                 </div>
                 <div>
                     <ul id="navbar" className={this.state.clicked ? "#navbar active" : "#navbar"}>
-                        <li><a href="#">Sobre</a></li>
-                        <li><a href="#">Projetos</a></li>
-                        <li><a href="#">Experiência</a></li>
+                        <li><a href="#topo">Sobre</a></li>
+                        <li><a href="#project">Projetos</a></li>
+                        <li><a href="#skills">Experiência</a></li>
                         <li><a href="#">Blog</a></li>
-                        <li><a href="#">Contato</a></li>
+                        <li><a href="#contact">Contato</a></li>
                     </ul>
                 </div>
                 <div id="mobile" onClick={this.handleClick}>

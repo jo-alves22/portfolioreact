@@ -10,6 +10,7 @@ import Skillsets from "../skillsets/Skillsets"
 function Home() {
     return(
         <>
+        <div id="topo"></div>
         <Navbar />
         <Hero />
         <Aboutme />
