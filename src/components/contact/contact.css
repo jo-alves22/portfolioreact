@@ -1,7 +1,7 @@
 :root{
   --brand:#4961dc;      /* azul principal */
   --bg-soft:#eef1ff;    /* fundo suave do card */
-  --text:#0f1225;
+  --text:#4961dc;
   --muted:#6b7090;
   --radius:16px;
   --shadow:0 10px 30px rgba(18, 24, 77, .10);
