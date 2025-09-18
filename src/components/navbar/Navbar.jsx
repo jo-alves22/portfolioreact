@@ -1,4 +1,5 @@
 import { Component } from 'react';
+import { Link } from 'react-router-dom';
 import jonasLogo from '../../assets/Logo.svg'
 import './Navbar.css'
 
@@ -21,7 +22,7 @@ class Navbar extends Component {
                         <li><a href="#topo">Sobre</a></li>
                         <li><a href="#skills">Experiência</a></li>
                         <li><a href="#project">Projetos</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <li><Link to="/blog">Blog</Link></li>
                         <li><a href="#contact">Contato</a></li>
                     </ul>
                 </div>
